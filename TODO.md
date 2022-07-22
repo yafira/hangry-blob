@@ -1,0 +1,9 @@
+- [x] change direction of snacks flow
+- [x] animation for blob sprite
+- [x] add icons of snacks
+- [x] add a font for text displayed
+- [x] add icons of liked snacks
+- [x] add functionality of disliked snacks
+- [ ] add sound effects
+- [ ] customize an intro
+- [ ] fix room width/height
